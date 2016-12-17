@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Calculator with CSS variables - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/jrMeWZ)
 * [Watch - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/xRQagp)
 * [Watch - React version](https://piotrberebecki.github.io/watch-react/), [GitHub repository](https://github.com/PiotrBerebecki/watch-react)
 * [Drum Kit - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/QGVrMv)
