@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [US Cities Population Finder - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/woNmdr)
 * [What a Wonderful World - Vanilla JavaScript](http://s.codepen.io/PiotrBerebecki/full/jVdMWo)
 * [Calculator with CSS variables - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/jrMeWZ)
 * [Watch - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/xRQagp)
