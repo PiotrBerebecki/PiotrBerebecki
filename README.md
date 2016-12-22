@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Drawing App - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/oYObme/), following [Wes Bos' JS30](https://javascript30.com/) tutorial and inspired by [Oliver James' design](http://codepen.io/oliverjam/full/bBOBKR/)
 * [US Cities Population Finder - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/woNmdr), following [Wes Bos' JS30](https://javascript30.com/) tutorial.
 * [What a Wonderful World - Vanilla JavaScript](http://s.codepen.io/PiotrBerebecki/full/jVdMWo)
 * [Calculator with CSS variables - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/jrMeWZ)
