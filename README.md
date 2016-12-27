@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Command Line Note Taking App - Node](https://github.com/PiotrBerebecki/notes-app-node)
 * [Drawing App - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/oYObme/), inspired by [Oliver James' app](http://codepen.io/oliverjam/full/bBOBKR/)
 * [Drawing App - React version](https://piotrberebecki.github.io/drawing-app-react/), [GitHub repository](https://github.com/PiotrBerebecki/drawing-app-react)
 * [US Cities Population Finder - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/woNmdr), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
