@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Command Line Weather App - Node](https://github.com/PiotrBerebecki/weather-app-node)
 * [Command Line Note Taking App - Node](https://github.com/PiotrBerebecki/notes-app-node)
 * [Drawing App - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/oYObme/), inspired by [Oliver James' app](http://codepen.io/oliverjam/full/bBOBKR/)
 * [Drawing App - React version](https://piotrberebecki.github.io/drawing-app-react/), [GitHub repository](https://github.com/PiotrBerebecki/drawing-app-react)
