@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Chat App - Node](https://salty-beach-85290.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/chat-app-node)
 * [Command Line Weather App - Node](https://github.com/PiotrBerebecki/weather-app-node)
 * [Command Line Note Taking App - Node](https://github.com/PiotrBerebecki/notes-app-node)
 * [Drawing App - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/oYObme/), inspired by [Oliver James' app](http://codepen.io/oliverjam/full/bBOBKR/)
