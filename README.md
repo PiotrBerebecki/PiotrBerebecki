@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Reach the Treasure Game - Vanilla JavaScript](https://piotrberebecki.github.io/reach-the-treasure-game/), [GitHub repository](https://github.com/PiotrBerebecki/reach-the-treasure-game)
 * [Chat App - Node](https://salty-beach-85290.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/chat-app-node)
 * [Command Line Weather App - Node](https://github.com/PiotrBerebecki/weather-app-node)
 * [Command Line Note Taking App - Node](https://github.com/PiotrBerebecki/notes-app-node)
