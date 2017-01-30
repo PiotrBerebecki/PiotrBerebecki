@@ -2,8 +2,6 @@
 
 A list of some of my recent projects.
 
-https://select-multiple-emails.herokuapp.com/
-
 * [Select Multiple Emails with Shift - React version](https://select-multiple-emails.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift-react)
 * [Select Multiple Emails with Shift - Vanilla JavaScript version](https://blooming-lake-76654.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift)
 * [Reach the Treasure Game - Vanilla JavaScript](https://secure-bastion-76285.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/reach-the-treasure-game)
