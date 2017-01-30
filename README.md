@@ -2,6 +2,7 @@
 
 A list of some of my recent projects. 
 
+* [Select Multiple Emails with Shift](https://blooming-lake-76654.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift)
 * [Reach the Treasure Game - Vanilla JavaScript](https://secure-bastion-76285.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/reach-the-treasure-game)
 * [Chat App - Node](https://salty-beach-85290.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/chat-app-node)
 * [Command Line Weather App - Node](https://github.com/PiotrBerebecki/weather-app-node)
