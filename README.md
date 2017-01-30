@@ -1,4 +1,4 @@
-### My portfolio site: http://codepen.io/PiotrBerebecki/full/wzkkdG
+<!-- ### My portfolio site: http://codepen.io/PiotrBerebecki/full/wzkkdG -->
 
 A list of some of my recent projects.
 
