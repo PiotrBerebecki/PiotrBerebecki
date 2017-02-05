@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Slide in Images on Scroll](https://slide-in-images-on-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/slide-in-images-on-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Video Player with Custom Controls - React version](https://custom-video-player-react.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player-react)
 * [Video Player with Custom Controls - Vanilla JavaScript version](https://custom-video-player-js.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Select Multiple Emails with Shift - React version](https://select-multiple-emails.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift-react)
