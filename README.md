@@ -2,6 +2,8 @@
 
 A list of some of my recent projects.
 
+
+* [CSS Follow the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Save Favourites in Local Storage](https://save-favourites-local-storage.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/save-favourites-in-local-storage), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Slide in Images on Scroll](https://slide-in-images-on-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/slide-in-images-on-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Video Player with Custom Controls - React version](https://custom-video-player-react.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player-react)
