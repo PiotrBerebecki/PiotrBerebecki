@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Sort and Render a List without Articles](http://codepen.io/PiotrBerebecki/full/ZLVOVJ/)
 * [CSS Follows the Mouse - React version](http://codepen.io/PiotrBerebecki/full/zNMQJB/)
 * [CSS Follows the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Save Favourites in Local Storage](https://save-favourites-local-storage.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/save-favourites-in-local-storage), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
