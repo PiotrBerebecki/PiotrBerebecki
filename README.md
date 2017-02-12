@@ -3,7 +3,7 @@
 A list of some of my recent projects.
 
 * [Sort and Render a List without Articles](https://piotrberebecki.github.io/sort-render-list-without-articles/), [GitHub repository](https://github.com/PiotrBerebecki/sort-render-list-without-articles), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
-* [CSS Follows the Mouse - React version](http://codepen.io/PiotrBerebecki/full/zNMQJB/)
+* [CSS Follows the Mouse - React version](https://piotrberebecki.github.io/css-follows-mouse-react/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse-react)
 * [CSS Follows the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Save Favourites in Local Storage](https://save-favourites-local-storage.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/save-favourites-in-local-storage), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
 * [Slide in Images on Scroll](https://slide-in-images-on-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/slide-in-images-on-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
