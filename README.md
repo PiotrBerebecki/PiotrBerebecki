@@ -2,13 +2,13 @@
 
 A list of some of my recent projects.
 
-* [Sort and Render a List without Articles](https://piotrberebecki.github.io/sort-render-list-without-articles/), [GitHub repository](https://github.com/PiotrBerebecki/sort-render-list-without-articles), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
+* [Sort and Render a List without Articles](https://piotrberebecki.github.io/sort-render-list-without-articles/), [GitHub repository](https://github.com/PiotrBerebecki/sort-render-list-without-articles), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [CSS Follows the Mouse - React version](https://piotrberebecki.github.io/css-follows-mouse-react/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse-react)
-* [CSS Follows the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
-* [Save Favourites in Local Storage](https://save-favourites-local-storage.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/save-favourites-in-local-storage), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
-* [Slide in Images on Scroll](https://slide-in-images-on-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/slide-in-images-on-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
+* [CSS Follows the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/)
+* [Save Favourites in Local Storage](https://save-favourites-local-storage.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/save-favourites-in-local-storage), following [Wes Bos' JavaScript30](https://javascript30.com/)
+* [Slide in Images on Scroll](https://slide-in-images-on-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/slide-in-images-on-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Video Player with Custom Controls - React version](https://custom-video-player-react.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player-react)
-* [Video Player with Custom Controls - Vanilla JavaScript version](https://custom-video-player-js.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
+* [Video Player with Custom Controls - Vanilla JavaScript version](https://custom-video-player-js.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/custom-video-player), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Select Multiple Emails with Shift - React version](https://select-multiple-emails.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift-react)
 * [Select Multiple Emails with Shift - Vanilla JavaScript version](https://blooming-lake-76654.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/select-multiple-emails-with-shift)
 * [Reach the Treasure Game - Vanilla JavaScript](https://secure-bastion-76285.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/reach-the-treasure-game)
@@ -17,7 +17,7 @@ A list of some of my recent projects.
 * [Command Line Note Taking App - Node](https://github.com/PiotrBerebecki/notes-app-node)
 * [Drawing App - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/oYObme/), inspired by [Oliver James' app](http://codepen.io/oliverjam/full/bBOBKR/)
 * [Drawing App - React version](https://piotrberebecki.github.io/drawing-app-react/), [GitHub repository](https://github.com/PiotrBerebecki/drawing-app-react)
-* [US Cities Population Finder - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/woNmdr), following [Wes Bos' JavaScript30](https://javascript30.com/) tutorial
+* [US Cities Population Finder - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/woNmdr), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [What a Wonderful World - Vanilla JavaScript](http://s.codepen.io/PiotrBerebecki/full/jVdMWo)
 * [Calculator with CSS variables - Vanilla JavaScript](http://codepen.io/PiotrBerebecki/full/jrMeWZ)
 * [Watch - Vanilla JavaScript version](http://codepen.io/PiotrBerebecki/full/xRQagp)
