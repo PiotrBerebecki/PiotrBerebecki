@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Webcam App](https://webcam-app.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/webcam-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Sort and Render a List without Articles](https://piotrberebecki.github.io/sort-render-list-without-articles/), [GitHub repository](https://github.com/PiotrBerebecki/sort-render-list-without-articles), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [CSS Follows the Mouse - React version](https://piotrberebecki.github.io/css-follows-mouse-react/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse-react)
 * [CSS Follows the Mouse - Vanilla JavaScript version](https://css-follows-mouse.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/css-follows-mouse), following [Wes Bos' JavaScript30](https://javascript30.com/)
