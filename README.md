@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Navigation Dropdown Follows Along](https://navigation-dropdown.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/navigation-dropdown-follow-along), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Speech Recognition App](https://speech-recognition-app.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/speech-recognition-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Webcam App](https://webcam-app.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/webcam-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Sort and Render a List without Articles](https://piotrberebecki.github.io/sort-render-list-without-articles/), [GitHub repository](https://github.com/PiotrBerebecki/sort-render-list-without-articles), following [Wes Bos' JavaScript30](https://javascript30.com/)
