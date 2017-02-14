@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Text to Voice App](https://text-to-voice.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/text-to-voice-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Navigation Dropdown Follows Along](https://navigation-dropdown.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/navigation-dropdown-follow-along), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Speech Recognition App](https://speech-recognition-app.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/speech-recognition-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Webcam App](https://webcam-app.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/webcam-app), following [Wes Bos' JavaScript30](https://javascript30.com/)
