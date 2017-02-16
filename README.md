@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Whack-a-mole Game](https://whack-a-mole-game-js.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/whack-a-mole-game), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Video Speed Controller](https://video-speed-controller.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/video-speed-controller), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Click and Drag to Scroll](https://click-drag-scroll.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/click-drag-scroll), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Sticky Nav](https://sticky-nav.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/sticky-nav), following [Wes Bos' JavaScript30](https://javascript30.com/)
