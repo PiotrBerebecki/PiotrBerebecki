@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Shapes - Animated SVG Logo](https://shapes-animated-svg-logo.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/shapes-animated-svg-logo)
 * [Countdown Counter](https://countdown-counter.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/countdown-clock), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Whack-a-mole Game](https://whack-a-mole-game-js.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/whack-a-mole-game), following [Wes Bos' JavaScript30](https://javascript30.com/)
 * [Video Speed Controller](https://video-speed-controller.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/video-speed-controller), following [Wes Bos' JavaScript30](https://javascript30.com/)
