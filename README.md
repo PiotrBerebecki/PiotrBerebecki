@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [Voice Controlled Stopwatch](https://piotrberebecki.github.io/voice-controlled-stopwatch/), [GitHub repository](https://github.com/PiotrBerebecki/voice-controlled-stopwatch)
 * [GitHub 'Your Repositories' Widget in React](https://github-your-repositories.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/github-your-repositories)
 * [Tour de CSS - Animated SVG Logo](https://tour-de-css-animated-logo.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/tour-de-css-animated-logo)
 * [Shapes - Animated SVG Logo](https://shapes-animated-svg-logo.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/shapes-animated-svg-logo)
