@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* Gif Weather App for Smartwatches, [GitHub repository](https://github.com/PiotrBerebecki/smartwatch-gif-weather-app)
 * [Stopwatch in a Closure](https://piotrberebecki.github.io/stopwatch-in-closure/), [GitHub repository](https://github.com/PiotrBerebecki/stopwatch-in-closure)
 * [Voice Controlled Stopwatch](https://piotrberebecki.github.io/voice-controlled-stopwatch/), [GitHub repository](https://github.com/PiotrBerebecki/voice-controlled-stopwatch)
 * [GitHub 'Your Repositories' Widget in React](https://github-your-repositories.herokuapp.com), [GitHub repository](https://github.com/PiotrBerebecki/github-your-repositories)
