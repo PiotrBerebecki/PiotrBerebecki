@@ -2,6 +2,7 @@
 
 A list of some of my recent projects.
 
+* [React Redux Todo App](http://react-redux-todos.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/material-ui-react-redux-todo-app)
 * Gif Weather App for Smartwatches, [GitHub repository](https://github.com/PiotrBerebecki/smartwatch-gif-weather-app)
 * [Stopwatch - React](http://stopwatch-fun-react.herokuapp.com/), [GitHub repository](https://github.com/PiotrBerebecki/stopwatch-react)
 * [Stopwatch in a Closure](https://piotrberebecki.github.io/stopwatch-in-closure/), [GitHub repository](https://github.com/PiotrBerebecki/stopwatch-in-closure)
