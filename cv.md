@@ -20,8 +20,8 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
 
-- Render html markup with React
-- Manage application state with Redux
+- Render html markup with **React**
+- Manage application state with **Redux**
 - Use the latest ES6 and proposed JavaScript language features
 - Transpile the code down to ES5 using Babel
 - Run tasks as npm scripts using yarn
