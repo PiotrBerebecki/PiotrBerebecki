@@ -1,6 +1,6 @@
 # Piotr Berebecki - GitHub CV
 
-> Hi, thank you for checking out my CV :) 
+> Thank you for checking out my CV :) 
 > I'm a JavaScript developer currently building React web apps.
 
 https://github.com/PiotrBerebecki
