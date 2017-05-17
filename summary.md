@@ -1,7 +1,7 @@
 # Piotr Berebecki - GitHub CV
 
-> Hi, thank you for reading my CV :) 
-> I'm a JavaScript developer currently building full-stack web apps.
+> Hi, thank you for checking out my CV :) 
+> I'm a JavaScript developer currently building React web apps.
 
 Tel. 07...
 
@@ -17,7 +17,6 @@ Tel. 07...
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/jest-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
-
 
 - Render html markup with React
 - Manage application state with Redux
