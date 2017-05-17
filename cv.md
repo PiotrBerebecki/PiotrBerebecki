@@ -23,7 +23,7 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 - Render html markup with **React**
 - Manage application state with **Redux**
 - Use the latest ES6 and proposed JavaScript language features
-- Transpile the code down to ES5 using Babel
+- Transpile the code down to vanilla JS using Babel
 - Run tasks as npm scripts using yarn
 - Develop maintainable CSS using styled-components or BEM
 - Handle asynchronous flow using promises (redux-thunk)
@@ -48,7 +48,7 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 ## My education
 - Founders & Coders - 16-week JavaScript coding bootcamp
 - A number of React and Javascript online courses on egghead.io, Udacity, Udemy, Pluralsight
-- BSc in Environmental Chemistry
+- BSc in Environmental Chemistry, Gdansk University of Technology
 
 ## My employment
 - Energy and Sustainability Consultant, Faithful+Gould (2007-2015)
