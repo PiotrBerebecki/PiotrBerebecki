@@ -7,14 +7,14 @@ Tel. 07...
 
 ## My current tech stack
 
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.png)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.png)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.png)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.png)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.png)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.png)
-![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
-![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
-![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
-![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
-![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.png)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.png)
 
 
 - Render html markup with React
