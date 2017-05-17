@@ -9,8 +9,8 @@ Tel. 07...
 
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/es6-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/babel-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
