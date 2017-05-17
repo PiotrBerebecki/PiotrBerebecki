@@ -1,11 +1,22 @@
-# Piotr Berebecki
+# Piotr Berebecki - GitHub CV
 
-> Hi, thank you for looking at my CV :) 
+> Hi, thank you for reading my CV :) 
 > I'm a JavaScript developer currently building full-stack web apps.
 
 Tel. 07...
 
 ## My current tech stack
+
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+![react](https://avatars.githubusercontent.com/u/7143770?v=3&s=64)
+
+
 - Render html markup with React
 - Manage application state with Redux
 - Use the latest ES6 and proposed JavaScript language features
@@ -13,8 +24,8 @@ Tel. 07...
 - Run tasks using npm scripts
 - Develop maintainable CSS using styled-components or BEM
 - Handle asynchronous flow using promises (redux-thunk)
-- Test pure functions and React components with Jest and Enzyme
 - Bundle it all together using webpack
+- Test pure functions and React components with Jest and Enzyme
 - Setup Node.js back-end server using Express.js or Hapi.js
 - Store data in a postgreSQL database
 
