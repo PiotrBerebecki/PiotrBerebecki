@@ -3,7 +3,9 @@
 > Hi, thank you for checking out my CV :) 
 > I'm a JavaScript developer currently building React web apps.
 
-Tel. 07...
+https://github.com/PiotrBerebecki
+
+http://stackoverflow.com/users/4186037/piotr-berebecki
 
 ## My current tech stack
 
@@ -44,7 +46,7 @@ Tel. 07...
 - I also come to most React meetups (e.g. Reactivate, react.london)
 
 ## My education
-- Founders & Coders - 16-week JavaScript coding programme
+- Founders & Coders - 16-week JavaScript coding bootcamp
 - A number of React and Javascript online courses on egghead.io, Udacity, Udemy, Pluralsight
 - BSc in Environmental Chemistry
 
