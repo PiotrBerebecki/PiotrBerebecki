@@ -10,15 +10,15 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 ## My current tech stack
 
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/es6-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/babel-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/yarn-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/styled-components-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/webpack-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/jest-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
+![redux](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
+![es6](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/es6-logo-64.jpg)
+![babel](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/babel-logo-64.jpg)
+![yarn](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/yarn-logo-64.jpg)
+![styled](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/styled-components-logo-64.jpg)
+![webpack](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/webpack-logo-64.jpg)
+![jest](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/jest-logo-64.jpg)
+![node](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
+![postgresql](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
 
 - Render html markup with **React**
 - Manage application state with **Redux**
