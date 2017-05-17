@@ -20,10 +20,10 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 ![node](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
 ![postgresql](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
 
-- Render html markup with **React**
+- Render semantic HTML5 markup with **React**
 - Manage application state with **Redux**
-- Use the latest ES6 and proposed JavaScript language features
-- Transpile the code down to vanilla JS using Babel
+- Use the latest JavaScript language features including ES6 and TC39 proposals
+- Transpile the code down to cross-browser compatible vanilla JS using Babel
 - Run tasks as npm scripts using yarn
 - Develop maintainable CSS using styled-components or BEM
 - Handle asynchronous flow using promises (redux-thunk)
@@ -31,6 +31,7 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 - Test pure functions and React components with Jest and Enzyme
 - Setup Node.js back-end server using Express.js or Hapi.js
 - Store data in a postgreSQL database
+- Implement continuous integration with Travis CI
 
 ## Some of the technologies I've also been using
 - Styling: Flexbox, Sass, material-ui
@@ -39,16 +40,17 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 - Testing: Mocha, Chai
 - Authentication: OAuth 2.0, JSON Web Token
 - Databases: MongoDB
+- Other: React Native, Photoshop
 
 ## Where you can find me
 - I'm a React coach during weekly codestorms.com workshops
 - I'm a JavaScript mentor at weekly codebar.io events
-- I also come to most React meetups (e.g. Reactivate, react.london)
+- I also come to most React meetups in London (e.g. Reactivate, react.london)
 
-## My education
+## Education
 - Founders & Coders - 16-week JavaScript coding bootcamp
 - A number of React and Javascript online courses on egghead.io, Udacity, Udemy, Pluralsight
 - BSc in Environmental Chemistry, Gdansk University of Technology
 
-## My employment
+## Employment
 - Energy and Sustainability Consultant, Faithful+Gould (2007-2015)
