@@ -11,17 +11,19 @@ Tel. 07...
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/es6-logo-64.jpg)
 ![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/babel-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/react-logo-64.jpg)
-![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/redux-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/yarn-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/styled-components-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/webpack-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/jest-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/node-logo-64.jpg)
+![react](https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/assets/logo/postgresql-logo-64.jpg)
 
 
 - Render html markup with React
 - Manage application state with Redux
 - Use the latest ES6 and proposed JavaScript language features
 - Transpile the code down to ES5 using Babel
-- Run tasks using npm scripts
+- Run tasks as npm scripts using yarn
 - Develop maintainable CSS using styled-components or BEM
 - Handle asynchronous flow using promises (redux-thunk)
 - Bundle it all together using webpack
