@@ -2,6 +2,8 @@
 
 A list of some of my recent side projects.
 
+* [Build yourself a redux](https://github.com/PiotrBerebecki/build-yourself-a-redux)
+* [A short comparison of redux async flow using promise, thunk and saga](https://github.com/PiotrBerebecki/redux-promise-thunk-saga)
 * [London Front-End Conf Registration Form](http://front-end-conf.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/london-front-end-conf-registration-form)
 * [React Redux Todo App](http://react-redux-todos.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/material-ui-react-redux-todo-app)
 * [Reading List App](http://reading-list.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/reading-list-app)
