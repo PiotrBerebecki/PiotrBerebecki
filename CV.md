@@ -3,9 +3,9 @@
 > Thank you for checking out my CV :) 
 > I'm a JavaScript developer currently building React web apps.
 
-https://github.com/PiotrBerebecki
+- My recent projects: https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/README.md
 
-http://stackoverflow.com/users/4186037/piotr-berebecki
+- My Stack Overflow profile: http://stackoverflow.com/users/4186037/piotr-berebecki
 
 ## My current tech stack
 
