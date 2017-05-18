@@ -43,8 +43,8 @@ http://stackoverflow.com/users/4186037/piotr-berebecki
 - Other: React Native, Photoshop
 
 ## Where you can find me
-- I'm a React coach during weekly codestorms.com workshops
-- I'm a JavaScript mentor at weekly codebar.io events
+- I'm a **React coach** during weekly codestorms.com workshops
+- I'm a **JavaScript mentor** at weekly codebar.io events
 - I also come to most React meetups in London (e.g. Reactivate, react.london)
 
 ## Education
