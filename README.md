@@ -2,6 +2,7 @@
 
 A list of some of my recent side projects.
 
+* [Superpowers Reactor](http://superpowers-reactor.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/superpowers-reactor)
 * [Build yourself a redux](https://github.com/PiotrBerebecki/build-yourself-a-redux)
 * [A short comparison of redux async flow using promise, thunk and saga](https://github.com/PiotrBerebecki/redux-promise-thunk-saga)
 * [London Front-End Conf Registration Form](http://front-end-conf.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/london-front-end-conf-registration-form)
