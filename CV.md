@@ -28,7 +28,7 @@
 - Develop maintainable CSS using styled-components or BEM
 - Handle asynchronous flow using promises (redux-thunk)
 - Bundle it all together using webpack
-- Test pure functions and React components with Jest and Enzyme
+- Test **pure functions** and React components with Jest and Enzyme
 - Setup Node.js back-end server using Express.js or Hapi.js
 - Store data in a postgreSQL database
 - Implement continuous integration with Travis CI
