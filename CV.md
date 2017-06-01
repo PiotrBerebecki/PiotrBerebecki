@@ -52,6 +52,6 @@
 - A number of React and Javascript online courses on egghead.io, Udacity, Udemy, Pluralsight
 - BSc in Environmental Chemistry, Gdansk University of Technology
 
-## Employment
+## Professional Experience
 - Full Stack JavaScript Developer, Founders & Coders (2017 - Present)
 - Energy and Sustainability Consultant, Faithful+Gould (2007-2015)
