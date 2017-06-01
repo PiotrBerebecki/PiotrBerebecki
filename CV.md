@@ -53,4 +53,5 @@
 - BSc in Environmental Chemistry, Gdansk University of Technology
 
 ## Employment
+- Full Stack JavaScript Developer, Founders & Coders (2017 - Present)
 - Energy and Sustainability Consultant, Faithful+Gould (2007-2015)
