@@ -1,7 +1,7 @@
 # Piotr Berebecki - GitHub CV
 
-> Thank you for checking out my CV :) 
-> I'm a JavaScript developer currently building React web apps.
+> Thank you for reading my CV :) 
+> I'm a JavaScript developer currently **building React web apps**.
 
 - My recent projects: https://github.com/PiotrBerebecki/PiotrBerebecki/blob/master/README.md
 
