@@ -1,6 +1,6 @@
 <!-- ### My portfolio site: http://codepen.io/PiotrBerebecki/full/wzkkdG -->
 
-A list of some of my recent side projects:
+A list of some of my recent side projects.
 
 * [Movie Search Web App](https://movie-search-web-app.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/movie-search-web-app)
 * [Superpowers Reactor](http://superpowers-reactor.surge.sh/), [GitHub repository](https://github.com/PiotrBerebecki/superpowers-reactor)
